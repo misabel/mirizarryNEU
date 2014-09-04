@@ -1,0 +1,4 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+9/3   MI		10:53 11:13 			  Setup    20		 
+9/3   MI	    11:30 11:34               new repo	4
+============committing to git: 9/3 11:37 ===================
