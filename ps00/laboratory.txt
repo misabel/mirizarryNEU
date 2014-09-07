@@ -7,3 +7,4 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 ============committing to git: 9/7 3:14 ====================
 9/7   MI		12:26 12:30				  Q10		4			 finished problem 10
 ============committing to git: 9/7 12:37 ===================
+9/7   MI		12:39  12:40  				  Lab Ex			 Did not have to do anything for it since I already set up my githup repo and commited everything. I will be using the command line tools on my mac.
