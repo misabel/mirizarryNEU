@@ -121,5 +121,14 @@
 ; (two-largest 6 9 1) => 15
 
 (define (two-largest a b c)
-  (cond [()]))
+  (cond 
+    [(> a b) (cond[(> b c) (+ a b)]
+                  [else (+ a c)])]
+    [(> a c) (cond[(> c b) (+ a c)]
+                  [else (+ a b)])]
+    [else (+ b c)]))
+
+; tests for Ex 10
+(two-largest 1 2 3)
+(two-largest 6 9 1)
 

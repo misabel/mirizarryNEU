@@ -5,3 +5,5 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 9/3   MI		11:40 11:58	 			  Q2    	18		      break, did ex1 and 2
 9/7   MI		1:50  3:01				  Q10		71			 started problem 10
 ============committing to git: 9/7 3:14 ====================
+9/7   MI		12:26 12:30				  Q10		4			 finished problem 10
+============committing to git: 9/7 12:37 ===================
